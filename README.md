@@ -1,24 +1,3 @@
 # ARTS
-## 2022年第25周--ARTS挑战第1周
-**Algorithm：每周至少做一个 leetcode 的算法题**
+[2022年第25周--ARTS挑战第1周](https://github.com/levitian/ARTS/blob/master/note/2022年第25周--ARTS挑战第1周.md)
 
-[1480. 一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)
-
-双重遍历的基本操作，完全只能实现功能。
-通过一次遍历减少复杂度,一个思维的转变就能带来明显收益。
-
-**Review：阅读并点评至少一篇英文技术文章**
-
-[Testing Web Pages In Process](https://blog.jamesdbloom.com/TestingWebPagesInProcess.html)
-
-该文章介绍了选择Selenium持续集成测试存在的问题，为什么选择Selenium测试，以及需要遵循的一些规则来降低测试成本，最后用代码来讲解了一个测试实施过程。
-
-**Tip：学习至少一个技术技巧**
-
-[tips：利用netstat去查找应用占用的端口](https://segmentfault.com/a/1190000042001289)
-简单介绍了在应对不熟悉的应用服务时查询服务端口的一个小技巧。
-
-**Share：分享一篇有观点和思考的技术文章**
-
-[谈谈技术人员如何做好团队管理](https://mp.weixin.qq.com/s/2dkHb1B5RJWH-DpO4V7sOw)
-这篇文章从一个架构优化的思路降到了技术管理的重要性，无论作为一线搬砖工还是工头，都值得从战略思维上提高认知。
