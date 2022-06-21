@@ -1,0 +1,18 @@
+**Algorithm：每周至少做一个 leetcode 的算法题**
+
+[383. 赎金信](https://leetcode.cn/problems/ransom-note/)
+考察char类型的知识点，我的题解用byte和String呼转，然后遍历逐一replace掉，虽然实现功能了，但被官方题解降维打击了
+增加对char类型的知识点熟悉
+
+[412. Fizz Buzz](https://leetcode.cn/problems/fizz-buzz/)
+
+可能题是真简单，但的确带来一丢丢信心，一次提交通过，主要是考察取余操作
+
+**Review：阅读并点评至少一篇英文技术文章**
+
+
+**Tip：学习至少一个技术技巧**
+
+
+
+**Share：分享一篇有观点和思考的技术文章**
